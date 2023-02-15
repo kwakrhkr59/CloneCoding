@@ -22,7 +22,6 @@ function App() {
           ))}
         </select>
       }
-      
     </div>
   );
 }
