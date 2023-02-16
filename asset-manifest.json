@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CloneCoding/movie-web-service/7.Practice%20Movie%20App/static/css/main.10237d94.css",
-    "main.js": "/CloneCoding/movie-web-service/7.Practice%20Movie%20App/static/js/main.ea2556fa.js",
-    "index.html": "/CloneCoding/movie-web-service/7.Practice%20Movie%20App/index.html",
-    "main.10237d94.css.map": "/CloneCoding/movie-web-service/7.Practice%20Movie%20App/static/css/main.10237d94.css.map",
-    "main.ea2556fa.js.map": "/CloneCoding/movie-web-service/7.Practice%20Movie%20App/static/js/main.ea2556fa.js.map"
+    "main.css": "/CloneCoding/movie-web-app/7-practice/build/static/css/main.10237d94.css",
+    "main.js": "/CloneCoding/movie-web-app/7-practice/build/static/js/main.ea2556fa.js",
+    "index.html": "/CloneCoding/movie-web-app/7-practice/build/index.html",
+    "main.10237d94.css.map": "/CloneCoding/movie-web-app/7-practice/build/static/css/main.10237d94.css.map",
+    "main.ea2556fa.js.map": "/CloneCoding/movie-web-app/7-practice/build/static/js/main.ea2556fa.js.map"
   },
   "entrypoints": [
     "static/css/main.10237d94.css",
